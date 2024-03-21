@@ -3,6 +3,11 @@ jspsych plugins included in base version of the dancing task
 
 These files have been used in a cognition.run editor. Code follows.
 
+Where stimuli are used in the code, path may have to be changed according to environment set up.
+
+All audio stimuli are in the "Stimuli" folder.
+Instructions are in the "Instructions" folder.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 /* create timeline */
